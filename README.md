@@ -1,0 +1,1 @@
+Hi everyone, this repository contains the code for a free, open-source Calendly-style meeting scheduler. You can clone it, customize it, and use it to handle booking links and meeting scheduling without any cost.
